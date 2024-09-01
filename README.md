@@ -1,5 +1,8 @@
 # IMDB-clone app
 
+Live: https://chaeunwoosshi.github.io/IMDB-clone/
+
+
 ![](images/home_page.png)
 ![](images/movie_page.png)
 
